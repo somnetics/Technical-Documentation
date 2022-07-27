@@ -20,15 +20,27 @@ dependencies are installed on your system:
 
 ### Folder structure
 
-Here's a folder structure for a Pandoc document:
+Here's a folder structure for a Seamless Platform:
 
 ```
-my-document/     # Root directory.
-|- build/        # Folder used to store builded (output) files.
-|- src/          # Markdowns files; one for each chapter.
-|- images/       # Images folder.
-|- metadata.yml  # Metadata content (title, author...).
-|- Makefile      # Makefile used for building our documents.
+seamless-platform/  # Root directory.
+|- app/           	# Folder used to store builded (output) files.
+|- public/          # Markdowns files; one for each chapter.
+  | - images/ 		#
+|- images/       	# Images folder.
+|- metadata.yml  	# Metadata content (title, author...).
+|- Makefile      	# Makefile used for building our documents.
+```
+
+Here's a folder structure for a Seamless Application:
+
+```
+seamless-platform/  # Root directory.
+|- app/           	# Folder used to store builded (output) files.
+|- public/          # Markdowns files; one for each chapter.
+|- images/       	# Images folder.
+|- metadata.yml  	# Metadata content (title, author...).
+|- Makefile      	# Makefile used for building our documents.
 ```
 
 ### Setup generic data
