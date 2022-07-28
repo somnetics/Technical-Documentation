@@ -87,7 +87,7 @@ seamless-platform/  # Root directory.
     |-Purchase Order Approval/   #
     |-Sales Order Approval/      #
     |-Scratch/                   #
-  |-views/                      #
+  |-views/                       #
 ```
 
 Here's a folder structure for a Seamless Application:
