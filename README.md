@@ -129,7 +129,7 @@ Creating a new chapter is as simple as creating a new markdown file in the
 src/01-introduction.md
 src/02-installation.md
 src/03-usage.md
-src/04-references.md
+src/04-references.md 
 ```
 
 Pandoc and Make will join them automatically ordered by name; that's why the
