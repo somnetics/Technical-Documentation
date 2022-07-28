@@ -25,29 +25,29 @@ Here's a folder structure for a Seamless Platform:
 ```
 seamless-platform/  # Root directory.
 |- app/           	# Folder used to store builded (output) files.
-  |-apis/			          #
-   |-account.js			#
-   |-auth.js				#
-   |-form.js				#
-   |-message.js			#
-   |-module.js				#
-   |-process.js			#
-   |-task.js				#
-   |-user.js				#
-  |-routes/		              #
-   |-access-management/	#
-    |-group.js           #    
-    |-privilege.js		  #
+  |- apis/			          #
+   |- account.js			#
+   |- auth.js				#
+   |- form.js				#
+   |- message.js			#
+   |- module.js				#
+   |- process.js			#
+   |- task.js				#
+   |- user.js				#
+  |- routes/		              #
+   |- access-management/	#
+    |- group.js           #    
+    |- privilege.js		  #
     |- project.js  	  # 
-    |-role.js            #
+    |- role.js            #
     |- user.js			  #		
-   |-admin.js			    #
+   |- admin.js			    #
    |-auth.js               #
    |-builder/	            #
     |- flow.js			 #
     |- form.js          #
     |- menu.js          #
-    |- report.          #
+    |- report.js          #
    |-change-password.js	#
    |- chat/                #
     |-index.js          # 
@@ -129,7 +129,7 @@ Creating a new chapter is as simple as creating a new markdown file in the
 src/01-introduction.md
 src/02-installation.md
 src/03-usage.md
-src/04-references.md
+src/04-references.md 
 ```
 
 Pandoc and Make will join them automatically ordered by name; that's why the
