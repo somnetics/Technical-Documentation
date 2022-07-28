@@ -25,16 +25,16 @@ Here's a folder structure for a Seamless Platform:
 ```
 seamless-platform/  # Root directory.
 |- app/           	# Folder used to store builded (output) files.
-  |-apis/			          #
+  |-apis/			      #
 	|-account.js			#
-	|-auth.js				#
-	|-form.js				#
+	|-auth.js					#
+	|-form.js					#
 	|-message.js			#
 	|-module.js				#
 	|-process.js			#
-	|-task.js				#
-	|-user.js				#
-  |-routes/		              #
+	|-task.js					#
+	|-user.js					#
+  |-routes/		      #
 	|-access-management/	#
 	 |-group.js           #    
      |-privilege.js		  #
