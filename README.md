@@ -6,7 +6,6 @@
 Here's a folder structure for a Seamless Platform:
 
 ```
-seamless-platform/  # Root directory.
 |- app                      # Directory for application related file
   |- apis                   # Directory used to store builded (output) files.
   |- routes                 # Directory used to store builded (output) files.
