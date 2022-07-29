@@ -1,5 +1,9 @@
   
 # Seamless Platform Technical Documentation
+Author | Reviewer | Published | Version | Changes
+--|--|--|--|--
+Susanta Das|Saradwata Sen|29-7-2022|0.1|Initial version
+
 ## Architecture
 ## System Diagram
 
