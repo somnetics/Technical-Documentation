@@ -1,5 +1,18 @@
   
 # Seamless Platform Technical Documentation
+## Architecture
+
+## Generator
+
+### Workflow
+### Business Rule
+### Configuration
+
+## Application
+### Create Application
+#### Steps
+##### Routes
+### Deployment
 
 ### Directory Structure
 
@@ -19,6 +32,11 @@ Here's a directory structure for a Seamless Platform:
   |- services               # Directory for core service related files of platform.
 |- public                   # Directory for public facing files of platform.
 ```
+
+- app
+  - apis
+  - routes
+
 
 Here's a folder structure for a Seamless Application:
 
