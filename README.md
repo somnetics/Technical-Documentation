@@ -9,8 +9,7 @@
 ### UI Components
 ### Generator
 ### Workflow
-### Business Rule
-### Configuration
+#### Business Rule
 ### Test
 #### Test Plan
 #### Automated Tests
@@ -23,6 +22,7 @@
 ## Application
 ### Overview
 ### Create Application
+#### Configuration
 #### Steps
 ##### Routes
 ##### Views
