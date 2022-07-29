@@ -1,20 +1,49 @@
   
 # Seamless Platform Technical Documentation
 ## Architecture
+## System Diagram
 
-## Generator
-
+## Platform
+### Overview
+### Directure Structure
+### UI Components
+### Generator
 ### Workflow
 ### Business Rule
 ### Configuration
+### Test
+#### Test Plan
+#### Automated Tests
+##### Sanity Tests
+##### Regression Tests
+#### Manual Tests
+##### Sanity Tests
+##### Regression Tests
 
 ## Application
+### Overview
 ### Create Application
 #### Steps
 ##### Routes
-### Deployment
-
+##### Views
+###### Configuration
+##### Static Resources
 ### Directory Structure
+### Deployment
+### Test
+#### Test Plan
+#### Automated Tests
+##### Sanity Tests
+##### Regression Tests
+#### Manual Tests
+##### Sanity Tests
+##### Regression Tests
+
+
+
+Notes:
+- deployment script
+- 
 
 Here's a directory structure for a Seamless Platform:
 
