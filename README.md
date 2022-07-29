@@ -20,7 +20,7 @@ Here's a directory structure for a Seamless Platform:
 |- public                   # Directory for public facing files of platform.
 ```
 
-Here's a folder structure for a Seamless Platform:
+Here's a folder structure for a Seamless Application:
 
 ```
 |- app                      # Directory for application related files.
